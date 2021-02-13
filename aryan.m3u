@@ -1,0 +1,1577 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-name="NDTV India" group-title="Hindi News" tvg-logo="https://khabar.ndtv.com/static/images/ndtv-khabar_default_image_livetv.png",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@5.m3u8
+
+#EXTINF:-1  tvg-name="ABP News India" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News India
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+
+#EXTINF:-1  tvg-name="News 18 India" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1  tvg-name="Aaj Tak" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w255776775_b1000000.m3u8
+
+#EXTINF:-1 tvg-id="Zee_News" tvg-name="Zee News" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
+https://zmcl-live.akamaized.net/zeenewsclean_mbr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ABP_Ganga" tvg-name="ABP Ganga" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png",ABP Ganga
+https://abp-i.akamaihd.net/hls/live/796944/abpganga/masterhls_1564.m3u8
+
+#EXTINF:-1  tvg-name="News 18 UttarPradesh UttaraKhand" group-title="Hindi News" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-up-uk-for-web.gif",News 18 UttarPradesh UttaraKhand
+https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8
+
+#EXTINF:-1 tvg-name="News 18 Bihar" group-title="Hindi News" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-bihar.gif",News 18 Bihar
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Janta TV" group-title="Hindi News" tvg-logo="https://jio-tv.com/uploads/tv_image/janta-tv.jpg",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Amar_Ujala" tvg-name="Amar Ujala" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amar_Ujala.png",Amar Ujala
+http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Zee_Hindustan" tvg-name="Zee Hindustan" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Hindustan.png",Zee Hindustan
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/hindustan/index.m3u8
+
+#EXTINF:-1 tvg-id="Republic_Bharat" tvg-name="Republic Bharat" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
+
+#EXTINF:-1 tvg-id="Hindi_Khabar" tvg-name="Hindi Khabar" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png",Hindi Khabar
+https://itvorigin.multitvsolution.com/idvo/hindikhabhar_540p/index.m3u8
+
+#EXTINF:-1  tvg-name="Khabrein Abhi Tak" group-title="Hindi News" tvg-logo="https://static.vidgyor.com/live/midroll/assets/khabrainabhitak.png",Khabrein Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  tvg-name="News 24" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="203" tvg-name="DD News" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="ABP Majha" group-title="Marathi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master_764.m3u8
+
+#EXTINF:-1 tvg-name="TV9 Maharashtra" group-title="Marathi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",TV9 Maharashtra
+https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-name="IBN Lokmat" group-title="Marathi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png",IBN Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="Saam TV" group-title="Marathi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",Saam TV
+https://live.wmncdn.net/saam/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-name="Zee 24 Taas" group-title="Marathi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",Zee 24 Taas
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/out/v1/915deae3b9024babbe4e35748e296d34/index.m3u8
+
+#EXTINF:-1 tvg-name="AM News" group-title="Marathi News" tvg-logo="https://amnews.live/assets/images/logo.png",AM News
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7010.AMNews.in.m3u8
+
+#EXTINF:-1 tvg-name="Republic TV" group-title="English News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
+https://ottr7.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
+
+#EXTINF:-1 tvg-name="Times Now" group-title="English News" tvg-logo="undefined",Times Now
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
+
+#EXTINF:-1 tvg-name="NDTV 24x7" group-title="English News" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+
+#EXTINF:-1 tvg-name="Mirror Now" group-title="English News" tvg-logo="https://imgk.timesnownews.com/1539697940-mirrornow.jpg",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+
+#EXTINF:-1 tvg-name="Times Now" group-title="English News" tvg-logo="https://cdn.imgbin.com/13/8/25/imgbin-times-now-noida-film-city-television-channel-logo-asianet-newsable-6LWFdzfim1kMPLLHBPJnbXdHB.jpg",Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+
+#EXTINF:-1 tvg-name="News X" group-title="English News" tvg-logo="https://www.newsx.com/wp-content/uploads/2017/02/newsx-placeholder-1.jpg",News X
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN News18" group-title="English News" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cnn-news-18-logo-300x300.jpg",CNN News18
+https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-name="CNBC TV 18" group-title="English News" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cnbc-tv-18-logo-300x300.jpg",CNBC TV 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-name="DD Rajyasabha" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",DD Rajyasabha
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+#EXTINF:-1 tvg-name="LokSabha TV" group-title="Hindi News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png",LokSabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-name="DD Bharati" group-title="Doordarshan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png",DD Bharati
+https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index_dvr.m3u8
+
+#EXTINF:-1 tvg-name="DD National" group-title="Doordarshan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Sony_SAB" tvg-name="Sony Sab" group-title="Hindi Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony Sab
+https://wxca.cf/j/Sony_SAB/master.m3u8?signature=0e07e6e2206ad41312892d230fd00f153cdcbb7b&unique=c1277c834ddd64994e33d6f912abeb9a
+
+#EXTINF:-1 tvg-id="Sony_SAB_HD" tvg-name="Sony Sab HD" group-title="Hindi Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony Sab HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-id="Sony_TV_HD" tvg-name="Sony HD" group-title="Hindi Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony Pal" group-title="Hindi Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
+#EXTINF:-1 tvg-name="And TV" group-title="Hindi Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png", And TV Sd
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/andtvsd/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGUXc0RlBZcmJiMzBBdEhCd1llZUhtODh1ZUp0eGV3bTRMbjcwMlhrdVBhNWRYbVJVeGxsQlhncUhDSEJNa1dpOG5WUHBaaXFoUHZOTWprb3hZbXk0N2U1clczSWppQW4tck1WY2xlcXRacnQ0bDJYU3hwMDNXdkJBTUpybV9tcTk5WFpWZ09Tc29yZ09qYlhNNncwenlidlZTMUFVWWFvamJXSi04bV9lR2VESVJJcTNMNTJkTGNXdzRmZTFmU0VSQ0VFa1F0SXQ5UTBTR0JBaEE4eWRWc0JZQlA3TEJNZ0FGSE90S0JCMmtia3ZNc0RkX2R4Q0xESmFWTXRNVlktRGZTUjlYSEVXLVBEVkFBaDRhVFdjZ3NVS0NCYUxLUzF3LWVEczZvQ0o2VDhKRms2WU5pVzM0S2J3X1QzMUozVXdLS0ZuY0ZNME1qRkhQTmVCc1RtdGc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM3MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb2xvcnNoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRlF3NEZQWXJiYjMwQXRIQndZZWVIbTg4dWVKdHhld200TG43MDJYa3VQYTVkWG1SVXhsbEJYZ3FIQ0hCTWtXaThuVlBwWmlxaFB2Tk1qa294WW15NDdlNXJXM0lqaUFuLXJNVmNsZXF0WnJ0NGwyWFN4cDAzV3ZCQU1Kcm1fbXE5OVhaVmdPU3NvcmdPamJYTTZ3MHp5YnZWUzFBVVlhb2piV0otOG1fZUdlRElSSXEzTDUyZExjV3c0ZmUxZlNFUkNFRWtRdEl0OVEwU0dCQWhBOHlkVnNCWUJQN0xCTWdBRkhPdEtCQjJrYmt2TXNEZF9keENMREphVk10TVZZLURmU1I5WEhFVy1QRFZBQWg0YVRXY2dzVUtDQmFMS1Mxdy1lRHM2b0NKNlQ4SkZrNllOaVczNEtid19UMzFKM1V3S0tGbmNGTTBNakZIUE5lQnNUbXRnPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=f%2bkf%2b%2fUFG2iMp2klPrYC7Da60ss%3d
+#EXTINF:-1 tvg-id="Colors_HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Hindi Entertainment",Colors HD
+https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
+
+
+#EXTINF:-1 tvg-id="0-9-zeetvhd_0" tvg-name="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgxNDE5MDkiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzbWFyYXRoaV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=Hv5fKZoe9jmMliExuYd4XkE%2bjZM%3d&sessionId=1fab1c33-e772-cac2-7cda-27390b40c4c3:9ee5b31e-40f7-2d42-861f-d03f5276e8fa&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLW1hcmF0aGktaGQvNzkzOTMw
+#EXTINF:-1 tvg-id="Colors_Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="VOOT",Colors Marathi HD
+https://livevoot-i.akamaihd.net/dash/live/828522/colorsmarathi/master.mpd
+
+#EXTINF:-1 tvg-name="Sony Marathi" group-title="Marathi" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/7031.SonyMarathi.in/en/1x1/208x208/test_pic1586282213219.jpg",Sony Marathi
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+
+#EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/386x386/09zeemarathizeemarathihd.png",Zee Marathi HD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/index.m3u8
+
+#EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/386x386/09zeemarathizeemarathihd.png",Zee Marathi SD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/zmarathisd/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Sony Max HD" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony Wah" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",Sony Wah
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/10_vqSZWSae32wBBBSf72Q/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony Max 2" group-title="Movies" tvg-logo="https://pbs.twimg.com/profile_images/763666460141125632/v5VPttZp.jpg",Sony Max 2
+https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Zee_Cinema_HD" tvg-name="Zee Cinema HD" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/zcinemahd/index.m3u8
+
+#EXTINF:-1 tvg-id="And_Pictures_HD" tvg-name="And Pictures HD" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/andpicshd/index.m3u8
+
+#EXTINF:-1 tvg-id="1158" tvg-logo="https://i.ytimg.com/vi/sVDIDOWXzV8/maxresdefault.jpg" group-title="Movies",Rishtey CinePlex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="Movies", Zee Bollywood
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/classic/index.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="Movies", Zee Anmol
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/zanmolcnm/index.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Movies", Zee Action
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/action/index.m3u8
+
+#EXTINF:-1 tvg-name="Shemaroo Bollywood Premiere" group-title="Movies" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg",Shemaroo Bollywood Premiere
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+
+#EXTINF:-1 tvg-name="Sony PIX HD" group-title="Movies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg",Sony PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:-1 tvg-name="And Flix" group-title="Movies" tvg-logo="https://medianet.mv/media/channel-111x0-icon.png",And Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v3a1/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="And Prive HD" group-title="Movies" tvg-logo="https://www.bdiptv.info/wp-content/uploads/2018/11/And-Prive-HD-in-300x169.png",And Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="Movies Now" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now
+https://timesnow.airtel.tv//live//MN_pull//chunklist_3.m3u8
+
+#EXTINF:-1 tvg-name="Romedy Now" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png",Romedy Now
+https://timesnow.airtel.tv//live//RN_pull//chunklist_3.m3u8
+
+#EXTINF:-1 tvg-name="MNX" group-title="Movies" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b91220254ac4729e0787f47/1565811502278/84a12a70fdeca4c785565dd4826460d2.jpg",MNX
+https://timesnow.airtel.tv//live//MNX_pull//chunklist_3.m3u8
+
+#EXTINF:-1 tvg-name="Zee Talkies" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/zeetalkies/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Discovery Channel Hindi" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Channel Hindi
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8|user-agent="Mozilla"
+
+#EXTINF:-1 tvg-name="Discovery Science" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
+https://itvorigin.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8|user-agent="Mozilla"
+
+#EXTINF:-1 tvg-name="Animal Planet Hindi" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+https://itvorigin.multitvsolution.com/idvo/animalplanethindi_540p/index.m3u8|user-agent="Mozilla"
+
+#EXTINF:-1 tvg-id="EPIC" tvg-name="EPIC" group-title="Infotainment" tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/display_665x429/public/images/story/2017/06/19/epic.jpg", EPIC
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/out/v1/71d7807e101d470fbac38441de9c674e/index.m3u8
+
+#EXTINF:-1 tvg-name="The Q India" group-title="Infotainment" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/03/The-Q.png",The Q India
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Food Food" group-title="Infotainment" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/food-food-tv-logo-300x300.jpg",Food Food
+#EXTVLCOPT:http-user-agent=Mozilla
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+
+#EXTINF:-1 tvg-id="Sony Yay-IN" tvg-name="Sony YAY" group-title="kids" tvg-logo="", Sony YAY
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+#EXTINF:-1 tvg-id="Shemaroo_Kids-IN" tvg-name="Shemaroo Kids" group-title="kids" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/playlist_cf.m3u8
+
+#EXTINF:-1 tvg-id="9XM" tvg-name="9XM Music" group-title="Music" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM Music
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/index.m3u8
+
+#EXTINF:-1 tvg-name="Mastiii" group-title="Music" tvg-logo="http://www.mastiii.com/images/mastiii-logo-mew.png",Mastiii
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-name="Music India" group-title="Music" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/music-india-logo-300x300.jpg",Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="ZOOM" tvg-name="Zoom" group-title="Music" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zoom-logo-300x300.jpg",Zoom
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Zing" tvg-name="Zing" group-title="Music" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zing-logo-300x300.jpg", Zing
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/zing/index.m3u8
+
+#EXTINF:-1 tvg-id="Zee5_Originals" tvg-name="Zee5_Originals" group-title="Music" tvg-logo="", Zee5 Originals
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/zee5_originals/index.m3u8
+
+#EXTINF:-1 tvg-name="9X Jalwa" group-title="Music" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2019/02/14/9x-jalwa.jpg",9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-name="Bollywood Memories" group-title="Music" tvg-logo="https://i.ytimg.com/vi/7OE_9Bwholk/hqdefault.jpg",Bollywood Memories
+http://vod.nexg.tv/juke/_definst_/jukebox.smil/chunklist_w525506161_b180000.m3u8
+
+#EXTINF:-1 tvg-name="9X Jhakaas" group-title="Marathi" tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png",9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Six HD" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Sky Sports Cricket HD Alt" group-title="LPL 2020"tvg-logo="https://static.india.com/wp-content/uploads/2020/11/Image-4-49.jpg"parent-code=1234" audio-track="IN",Sony LIV EN HD
+https://pubads.g.doubleclick.net/ssai/event/oVbzxnh5TEK_ssGRX5WZYw/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony Ten 1 HD" group-title="Sports" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png",Sony Ten 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony Ten 2 HD" group-title="Sports" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png",Sony Ten 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony Ten 3 HD" group-title="Sports" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png",Sony Ten 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+
+#EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-sports-logo_1.png",DD Sports
+https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-name="DD India" group-title="Doordarshan" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0180.DDIndia.in/en/1x1/208x208/test_pic1552392493086.jpg",DD India
+https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
+
+#EXTINF:-1 tvg-name="DD Kisan JIOTV" group-title="Doordarshan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png",DD Kisan JIOTV
+http://indtv.online/zee5/0-9-ddkisan.m3u8
+
+#EXTINF:-1 tvg-name="DD Uttar Pradesh" group-title="Doordarshan" tvg-logo="https://j2apps.s.llnwi.net/is1/media/images/0290.DDUP.in/1x1/6x/test_pic1535463600644.jpg",DD Uttar Pradesh
+https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in_480p/index.m3u8
+
+#EXTINF:-1  tvg-name="DD Madhya Pradesh" group-title="Doordarshan" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1683.DDMadhyaPradesh.in/en/1x1/208x208/test_pic1535463428992.jpg",DD Madhya Pradesh
+https://m-c14-j2apps.s.llnwi.net/hls/1683.DDMadhyaPradesh.in_480p/index.m3u8
+
+#EXTINF:-1  tvg-name="DD Bihar" group-title="Doordarshan" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0281.DDBihar.in/en/1x1/208x208/test_pic1535463301638.jpg",DD Bihar
+https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8
+
+#EXTINF:-1  tvg-name="DD Sahyadri" group-title="Doordarshan" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0113.DDSahyadri.in/en/1x1/208x208/test_pic1535463564844.jpg",DD Sahyadri
+https://m-c048-j2apps.s.llnwi.net/hls/0113.DDSahyadri.in.m3u8
+
+#EXTINF:-1  tvg-name="DD Punjabi" group-title="Doordarshan" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0263.DDPunjabi.in/en/1x1/208x208/test_pic1538640430775.JPG",DD Punjabi
+https://m-c048-j2apps.s.llnwi.net/hls/0263.DDPunjabi.in.m3u8
+
+#EXTINF:-1  tvg-name="DD North East" group-title="Doordarshan" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0284.DDNorthEast.in/en/1x1/208x208/test_pic1535463497675.jpg",DD North East
+https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
+
+#EXTINF:-1  tvg-name="DD Bangla" group-title="Doordarshan" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0252.DDBangla.in/en/1x1/208x208/test_pic1535463247033.jpg",DD Bangla
+https://m-c048-j2apps.s.llnwi.net/hls/0252.DDBangla.in.m3u8
+
+#EXTINF:-1  tvg-name="DD Retro" group-title="Doordarshan" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/7041.DDRetro.in/en/1x1/208x208/test_pic1588701102113.jpg",DD Retro
+https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_dvr.m3u8
+
+#EXTINF:-1  tvg-name="Big Ganga" group-title="Regional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Ganga.png",Big Ganga
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/bigganga/index.m3u8
+
+#EXTINF:-1  tvg-name="Big Magic" group-title="Regional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
+https://acerose-splash.000webhostapp.com/zee5.php?url=https://z5ams.akamaized.net/bigmagic/index.m3u8
+
+#EXTINF:-1 tvg-id="Regional" tvg-name="Boogle Bollywood" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png",Boogle Bollywood
+https://acerose-splash.000webhostapp.com/Yupptv/Get_M3U.php?url=boogle-bollywood
+
+#EXTINF:-1 tvg-id="Showbox" tvg-name="Showbox" group-title="Regional" tvg-logo="https://www.adgully.com/img/800/201906/showbox_3.jpg",Showbox
+https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in_480p/index.m3u8
+
+#EXTINF:-1  tvg-name="9X Tashan" group-title="Regional" tvg-logo="https://image3.mouthshut.com/images/imagesp/925754858s.jpeg",9X Tashan
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_480p/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",UTV FHD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51247
+
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND TV FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51255
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SONY PIX FHD 	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51231
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR BHARAT FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51233
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR GOLD FHD 	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51234
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR GOLD SEL FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51235
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DANGAL	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51206
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ZEE CAFE FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51267
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR WORLD FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51266
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND PICTURES FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51272
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AND XPLOR HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51221
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",COLOR RISHTEY	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51223
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH STAR WORLD HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47858
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH STAR MOVIES HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47859
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH STAR WORLD PREMIER HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47860
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH STAR MOVIES SELECT HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47861
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH FOX LIFE HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47863
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",B4U Movies	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=2662
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH COLORS INFINITY HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47880
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH NATGEO ENGLISH HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47865
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH ANIMAL PLANET HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47868
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH BBC EARTH HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47869
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH HISTORY TV 18 HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47870
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH NAT GEO WILD HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47873
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH TLC WORLD HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47876
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ENGLISH DISCOVERY WORLD HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=47878
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",NATIONAL GEO FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51268
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DISCOVER PK	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51279
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",HISTORY TV FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51276
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DISCOVERY FHD	
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51273
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ID FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51277
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",Star Sports 2 HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=18181
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",Star Sports 1 HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=14000
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",T SPORTS HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51011
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS STAR SPORTS 2 HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48103
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS STAR SPORTS 1 HINDI HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48105
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS STAR SPORTS 1 ENGLISH HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48106
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS STAR SPORTS SELECT 1 HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48110
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS STAR SPORTS SELECT 2 HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48111
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS STAR SPORTS 3 	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48114
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS STAR SPORTS FIRST	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48120
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS TEN 3 HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48162
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS TEN 1 HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48155
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS TEN 2 HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48148
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SONY TEN 1 FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51244
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SONY TEN  2 FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51232
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SONY TEN 3 FHD 	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51245
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SPORTS SONY SIX HD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=48154
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR SPORTS HINDI HD 1	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51218
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",HINDI STAR SPORTS 1 FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51240
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR SPORTS 1 FHD	
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51241
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",STAR SPORTS 2 FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51242
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",SONY SIXX FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51243
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",EUROSPORTS	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51222
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",MUSIC ACTIVE MASALA	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51226
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",B4U Music	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=2663
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",DHOOM MUSIC	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51030
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",B4U Music	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=18184
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",AAHO MUSIC	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51049
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",ARY MUSIC	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51061
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",PTC MUSIC	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51168
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",7S MUSIC	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51211
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",GEMINI MUSIC FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51274
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",MUSIC ACTIVE	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51225
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H"tvg-logo="https://cdn.iconscout.com/icon/free/png-512/dish-tv-1-569202.png",NICK FHD	
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://istreamtv.xyz/api3/redtv/iptv.php?uid=aryany9_49801&id=51269
+
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",&pictures
+http://182.176.93.225:8000/play/a02h
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",&tv 
+http://182.176.93.225:8000/play/a04e
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",ANIMAL PLAN
+http://182.176.93.225:8000/play/a04i
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",BBC WORLD
+http://182.176.93.225:8000/play/a048
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",CARTOON
+http://182.176.93.225:8000/play/a01k
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",CNN INTL
+http://182.176.93.225:8000/play/a047
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Colors HD
+http://182.176.93.225:8000/play/a00c
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",colors Infi
+http://182.176.93.225:8000/play/a02q
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",COMEDY CEN
+http://182.176.93.225:8000/play/a049
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Discovery H
+http://182.176.93.225:8000/play/a010
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",DISCOVERY K
+http://182.176.93.225:8000/play/a01r
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Discovery S
+http://182.176.93.225:8000/play/a02c
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Discovery T
+http://182.176.93.225:8000/play/a02d
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Disney Chan
+http://182.176.93.225:8000/play/a01m
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Disney Jr.
+http://182.176.93.225:8000/play/a01n
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",EUROSPORT 
+http://182.176.93.225:8000/play/a01f
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",FOX Life HD
+http://182.176.93.225:8000/play/a00f
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",HBO0
+http://182.176.93.225:8000/play/a01v
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",History TV
+http://182.176.93.225:8000/play/a02a
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",MAX HD
+http://182.176.93.225:8000/play/a01a
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",MN+ HD
+http://182.176.93.225:8000/play/a00w
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",MNX 
+http://182.176.93.225:8000/play/a04a
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",MOVIES
+http://182.176.93.225:8000/play/a01x
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",MTV
+http://182.176.93.225:8000/play/a04b
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",NAT Geo Wild HD
+http://182.176.93.225:8000/play/a01b
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",National G
+http://182.176.93.225:8000/play/a00z
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",nick
+http://182.176.93.225:8000/play/a027
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",nick HD+
+http://182.176.93.225:8000/play/a041
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Nick Jr. 
+http://182.176.93.225:8000/play/a01q
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",PIX HD5
+http://182.176.93.225:8000/play/a040
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Pogo 
+http://182.176.93.225:8000/play/a01p
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Romedy NOW-
+http://182.176.93.225:8000/play/a01y
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",SET HD
+http://182.176.93.225:8000/play/a00e
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",SIX HD
+http://182.176.93.225:8000/play/a017
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",SONIC- 
+http://182.176.93.225:8000/play/a01o
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",SONY BBC Ea-
+http://182.176.93.225:8000/play/a02j
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",SONY MAX 2
+http://182.176.93.225:8000/play/a02r
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",SONY PAL -
+http://182.176.93.225:8000/play/a04d
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",SONY SAB
+http://182.176.93.225:8000/play/a04c
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Sony Ten 1 HD
+http://182.176.93.225:8000/play/a016
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Sony Ten 2 HD
+http://182.176.93.225:8000/play/a04f
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Sony Ten 3 HD
+http://182.176.93.225:8000/play/a046
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",STAR BHARA
+http://182.176.93.225:8000/play/a03y
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Star GOLD
+http://182.176.93.225:8000/play/a02m
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Star Gold SelHD
+http://182.176.93.225:8000/play/a03z
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Star Movies
+http://182.176.93.225:8000/play/a00y
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",STAR MOVIES
+http://182.176.93.225:8000/play/a00x
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Star Plus 
+http://182.176.93.225:8000/play/a00a
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Star Sport
+http://182.176.93.225:8000/play/a015
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Star Sport
+http://182.176.93.225:8000/play/a018
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Star Sport
+http://182.176.93.225:8000/play/a04h
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Star Sport
+http://182.176.93.225:8000/play/a04g
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Star Sport
+http://182.176.93.225:8000/play/a014
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",STAR WORLD Premiere
+http://182.176.93.225:8000/play/a042
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",STAR WORLD 
+http://182.176.93.225:8000/play/a013
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",TLC HD
+http://182.176.93.225:8000/play/a00u
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",UTV ACTION
+http://182.176.93.225:8000/play/a02o
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",UTV MOVIES
+http://182.176.93.225:8000/play/a02n
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",WB
+http://182.176.93.225:8000/play/a01w
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",ZEE CINEMA
+http://182.176.93.225:8000/play/a02l
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",ZEE TV HD
+http://182.176.93.225:8000/play/a00b
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",Hungama
+http://182.176.93.225:8000/play/a01l
+#EXTINF:-1 tvg-id="Multi" tvg-name=IPIST" group-title="Xstream | Multi"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg",&flix HD
+http://182.176.93.225:8000/play/a00d
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Aaj Tak 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7f786d0bb73f03a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Aaj Tak LINK 2 -   HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1afabcecc149bb3.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR PLUS Star Plus HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/985ca23f8635b78.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR PLUS Star Plus IN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ede405f1c726fbd.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR PLUS Star Plus ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR PLUS Star Plus UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/fa945e975f91f07.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Star USTUV 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/80e91863e896018.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Star USTUV  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/afa95cdde28be8c.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR WORLD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ec5fb5889e178cf.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR WORLD   PREMIRE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d499ddfab492af5.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR GOLD Star Gold HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR GOLD Star Gold IN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/609ab6dfeebc78e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR GOLD Star Gold 2
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a0876302f4d0d94.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR GOLD Star Gold UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7be3338cc88fe2d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR GOLD Star Gold ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf66ffc6d70c906.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR MOVIES Star Movies
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/53b93bc93a361a2.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR MOVIES Star Movies HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d2cb1f2def7c995.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR MOVIES Star Movies Select
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5d89319170672bd.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", EPIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8ee76fda77d2469.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", COLORS Colors HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e97b15c8c704ce9.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", COLORS  Colors IN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6bfdd4e1c8a56fb.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", COLORS  Colors EU
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9a157ebaeb820c2.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", COLORS  Colors ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7729d1cfe731602.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", COLORS  Colors AU
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/60bce00114bb31a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR BHARAT Star Bharat HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4540c413ad0b6d7.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR BHARAT Star Bharat India
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/387a07d78d6dc9e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR BHARAT Star Bharat Mena
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e208871a7fa998e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR BHARAT Star Bharat UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/36c577112426849.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MAHA MOVIES 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/db46fb135757824.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", RISHTEY Rishtey
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b84cefdcc6d2629.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", RISHTEY Rishtey UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f2970018449b14f.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", RISHTEY Rishtey ASIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0b7aa388ce3172e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", RISHTEY CINEPLEX CINEPLEX HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/94277029df55064.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", RISHTEY CINEPLEX 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/389230b55bf47f5.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", RISHTEY CINEPLEX  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f25724119174e8f.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", RISHTEY CINEPLEX  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e01f3185fb0169c.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY TV  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d3de51115409fb4.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY TV  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4f7a9e19f028478.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY TV  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf017cdc97d134e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY TV  AUSTRALIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a80bc4a92232159.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY SAB  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6972e43ce89b000.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY SAB  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/faf449ba9197cc5.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY SAB  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9c10d45a5e990a7.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY SAB  ASIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c333aa1be393971.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY MAX  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f8cec9420f578d8.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY MAX  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/eabb0fee1d27bbf.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY MAX  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/42f790db2b0544a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY MAX  AUSTRALIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9999dcc8327a5e0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY PAL 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/865e673663d2110.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY MAX 2 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/030ce59d75d66f8.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY PIX HD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e7112734b34b289.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY MIX 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e0265cb0192ffc7.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TV  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1f7c1b327d6fb68.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TV  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ac32aa03fbb4942.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TV  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/db1e9b646869a2d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TV  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5c370bec2003bde.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TV  CANADA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/16db26a9c5aa5da.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TV  USA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2d21f710072aa1b.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TV  APAC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e09b89fb3974aae.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TV  RUSSIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7f6a37dd3b52747.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE CLASSIC 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/dbc9cc176de493d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE BUSINESS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d2a0f350d69fd6a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE ACTION 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/dcd461729f9826d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE SALAM 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0fe2cd388c258e0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE ETC 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9d159d4efb32b85.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE NEWS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf38e5fa0496b3f.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE CINEMA  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9bae81913aa9194.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE CINEMA  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0c66a1e75716bab.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE CINEMA  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ca47274691a6924.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE CINEMA  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/16451da76d1b4cb.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE CINEMA  APAC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c2d562d8edfa022.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE LIVING 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/eb3ef00e7676993.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE CAFE  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/699754d817cdbb4.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE CAFE  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/813d90fcb9a4efa.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AND FLIX 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/25ac7a6a36cdb36.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DANGAL TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6f63f54fdf6431d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE ANMOL 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/072cf735b85b795.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE ANMOL CINEMA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c1fa63dca6c4cbd.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", LIVING FOODZ 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9ab76975d8029f6.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TALKIES  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f70d5d1be972bd6.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE TALKIES  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/501b55831a47275.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SAHARA SAMAY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/59c67f0d6d8cd53.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SAHARA UP
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/02bf8d150f8fbe5.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SAHARA AALMI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/94058ebcb7ea646.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SAHARA BIHAR
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/83e17ea9b5c4bd8.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SAHARA RJ
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/37496b095c82e31.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SAHARA FAMILY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/83b541170c11481.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AND TV  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cc9da3ab98e0ca6.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AND TV  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5541a515d609e78.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AND TV  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/726e730e030e958.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AND TV  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b1dda2470470824.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AND PICTURES  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6fdb628891efd97.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AND PICTURES  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/470ce321b9a3132.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", INDIA TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/02b95c081ad819e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", INDIA TODAY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1ec59424d0a0639.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NEWS 18 INDIA  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e1b5bef2845d160.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NEWS 18 INDIA  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3b36d5ccf88b673.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NEWS 18 LOKMAT  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b38c50b2543ceda.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NEWS 18 LOKMAT   HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6a79f8e9280ba5d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DD NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8c93b9c403837b7.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", TIMES NOW
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/46e2e1d975de76a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ENTER 10
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/20bcb358e5e5db0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ABP NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3f7d006fc1d5335.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NEWS 24 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/19526cc8fd4370e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NDTV INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e467cefc21d514c.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NDTV PROFIT
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ad88cb0cdf0baa6.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NDTV 24X7
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3a04c6f8656a5f1.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SANSKAR TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/af18508dfbd6fad.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", UTV BINDASS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9ccd2d5c7f1c8c9.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", UTV HD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8da8f299949b7f9.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", UTV MOVIES 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/635b60797540d44.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SURYA CINEMA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/72f4575571c6887.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", UTV ACTION 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/646c6ef841a37ad.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MTV INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/43b3587884b1e53.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZING  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0d1feda85eb211b.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZING  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/756e4f43da57d21.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", B4U MOVIES  IN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/eb1b09bbca5bf1c.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", B4U MOVIES  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5bf01d99b2b4fe7.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", B4U MUSIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZOOM TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/77789e89e7b4b03.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AASTHA TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/95f3802e1ea5024.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AASTHA BHAJAN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cbbcc15d50b66d1.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MUSIC INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/549940985fc4662.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", 9XM
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/58b71f3aaaca316.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", 9X JALWA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f8b02269c0ddfa5.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", 9X JHAKAAS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/61e68a4becdf2e9.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", OTV INDIA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4435d4adec5318e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MASTIII TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2288861a06948bf.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ET NOW
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/11b826ff12eae7f.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DILLAGI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/707562bde11af15.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MANORANJHAN TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0e5d175ba3751c3.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MANORANJHAN MOVIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cdee3c6a08343d9.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", BIG MAGIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5e17964488c0fcf.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DHAMMAL TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c790119aafa4d4b.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MIRROR NOW
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/53422a4b56aa450.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", E24 TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/05edd65c2702875.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", HOUSEFULL MOVIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/da79319097d36f9.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", WOW CINEMA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8d02d3058c22dcb.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE YUVA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1145f4c0c8e422e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CINEMA TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4fe0432cc999a43.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR UTSUV MOVIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/969f79a0e37813d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", BHOJPURI CINEMA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/242c4cd1091b640.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MTV HD PLUS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2dbcd106df9b6e9.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", TLC HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/68b1d3ecb4a0bd7.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", COLORS INFINITY 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d8144f620333da6.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE5 KIDS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a4ef56fc761a059.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SAHARA ONE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/fadc15345049db4.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DD SPORTS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1ba95b7f1463068.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DABANG TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0b9f194934c7e42.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ABP MAJHA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d2e380266fadee5.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", TV9 MARATHI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a4642f53c785c20.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE MARATHI  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2016fd5dcdb0242.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE MARATHI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2868849d82e8d5a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", REPUBLIC TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1d5cec57e94eeff.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", WOW MUSIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/045e2d8dbcb3a41.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", COLORS MARATHI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7518933b7b902c0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NEWS NATION 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/549dd888e55f264.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", OSCAR MOVIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/574eacf81903fd2.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY BBC EARTH HINDI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", TRAVEL XP INDIA TRAVEL XP HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c04072141dd08f4.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", TRAVEL XP INDIA TRAVEL XP ENGLISH
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9f2270118e3e3ca.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DD NATIONAL 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1ef363e76534d1d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SANGEET BHOJPURI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8ee9cfe59b24e4a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ARRE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b9c8fcfe75cbd79.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", TV9 GUJRATI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3b7b596ea5db81d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR GOLD SELECT
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/67eecd56a10c2bb.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MH1 SHRADDHA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a9433e05b542c64.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CALCUTTA NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/953a204a6054fa8.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", TEZ NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/99fbdaac8c17ffb.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", STAR PARAVAH 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/992b6ffe5bdeb21.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", TARANG TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9ceb0b809e9a67f.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", COLORS ORIYA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6c36a7024924d93.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", 9XO
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/518a97019529db4.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AND PRIVE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/937243badc6d588.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY WAH 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e705d6bf9361e4c.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", FOOD FOOD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6cf76030be4cfaa.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", VH1 INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9dcf34a2dca35d9.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NDTV GOODTIMES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b23f2d798d3eb59.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE HINDUSTAN 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cdf8a182df68de4.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE 24 TAAS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2ac1e23f5cb06ad.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE MPCG 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/85f18f3c3fddd2e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", BBO 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/830d57f019f2bc1.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", BBO  CLASSIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d9a8ac33c1c0fcb.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY MARATHI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/01426b41a700e50.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MTV BEATS HD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/76c0abff2ef214f.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MTV BEATS HD MTV BEATS SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9c2462c87ac524f.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", COLORS GUJARATI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/898aa5e57548405.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE 24 KALAK 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/192844799fc168d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", B4U KADAK E
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ef3f585dbf35c05.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", FOX LIFE INDIA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4f6c28d44357b36.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE KALINGA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4925513eeb83487.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE WORLD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/264845965b764c0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE SARTHAK 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3de00ba704222ed.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE SMILE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/852171119aa03cf.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ZEE BOLLYWOOD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/31f7f7dd6678fec.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AND XPLORE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c70d0e933f18dda.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DD URDU 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1ab6a53d83282be.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DD BHARATI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/add83619aaa21b3.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DD KISAN 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3a7f2f7e1d1a65b.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DD UTTAR PARDESH 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/07b1e16c8afa7bf.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ABZY COOL 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/62c0466db44ae41.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ABZY MOVIES 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b3af0f6e8bb1a96.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ABZY DHAKAD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1f2cd3259fd85b0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", BFLIX MOVIES 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4e0e7378bd80e4e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", BIG GANGA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e1778cf85f0e5e8.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", VTV GUJARATI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0192357cd1b93c8.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MANORANJHAN GRAND 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/594d4c73e922299.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", FIRANGI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ddee93199070de1.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NOW CINEMA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b0dfef3736bda96.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NOW PREMIER 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/104e7a20cd5d4d8.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", FAKT MARATHI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cdc5468add9a0da.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SHEMAROO TV 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/610019c456f718d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | INDIA"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", REPUBLIC BHARAT 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e55d8ab3dd402ba.m3u8
+
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISNEY UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/a997a7280b772a0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NICKELODEON UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7212a0a571cd4a8.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Cartoon Network UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/0b59e7307afa75a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NICK TOONS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4831104be353eb0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Disney XD UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c093867fabb677b.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Disney JR 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7aa459d024f16bb.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Nick Jr
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/fbf99981f354927.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Nick Jr 2
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b380b20155dd0e0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Cartoon Network Hindi  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7fe9fa45b205f17.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Cartoon Network Hindi  
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/20e3acedb66331e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Hungama Tv Hungama Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c36fa382a5bf123.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Hungama Tv Hungama Tmail
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/89c186329f8f603.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Tiny Pop
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4ea08af8b729147.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", BABY TV UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/99c46b5e9de69ae.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Disney Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ae3730b2e905c7.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Nickelodeon Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/284ad1fec9855ca.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Nick Jr Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/edc76fc8bbe047e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Pogo Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bf25c45bfd4a2db.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Kix Tv
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7ea18cbc41cf0fd.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Pop Tv
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/131c24b951b60d5.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SPACE TOON
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/6f02691d2ad6e52.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CARTOON NETWORK ARABIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7f4c54362e9fa66.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CANAL J
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/d906ad24c354b91.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", TIJI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/09be93f5026c5c1.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", BOOMERANG
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b77a74db3cb00d1.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CARTOONITO
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/86555c60e79d125.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CBBC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/09252d074594c48.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", PBS KIDS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/93b4db526b4e92a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY YAY HINDI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/a20fe53e482cc33.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Discovery Kids  English
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/58dff2490495e58.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Discovery Kids  Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/f84280cdd1bbb6a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", BARAEM TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/40a11f187f9fbcd.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MAJID KIDS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/d0ce400935eafa3.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CBEEBIES UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b40621c4c25d5a0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", JEEM TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/77feece38ce4aef.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NICK TAMIL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/1f173781a158b01.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CARTOON NETWORK TM
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/f507403366b6e99.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CARTOON NETWORK TG
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/e3682dbdb700e2a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Discovery KIDS TM
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ea8962cc2de139.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", POGO TAMIL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/499a1c12bb817c2.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CHUTTI TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/1748846af308e38.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", KUSHI TV TELUGU
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2705f26aaabdf72.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONY YAY TELUGU 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bbe4fbc2002185b.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MICKEY TV 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/6caf03abaef774e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NICK HD+ 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/3bbcc0021241b66.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NICK PAKISTAN 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b19590f4e9747b7.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", KOCHU TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4cede23d2af854d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CARTOON NETWORK PAK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2a347e9e75008c7.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISNEY INT
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/8f3e6367117c923.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONIC NICKELODEON SONIC HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4415aa98f2f6f59.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONIC NICKELODEON SONIC MALAYALAM
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c80891b460463d4.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONIC NICKELODEON SONIC TAMIL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/91aba00ebe562bf.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", SONIC NICKELODEON SONIC TELUGU
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/ea11b00173a3f37.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", WOW KIDS  HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2ff8dc4bdf8e0c4.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MARVEL HQ MARVEL HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4624b7164dd5b1c.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", MARVEL HQ MARVEL TAMIL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/1f71b3dc2078689.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NICK TELUGU 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/a742577fbdf259f.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", NICK KANNADA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/3f498374548bde0.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CINEMACHI KIDS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/1a946d6a674e435.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", KID ZONE PAK 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bfc13e6e8a5fef5.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | KIDS"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", POP KIDS PAK 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7e5676155536bd5.m3u8
+
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Animal Planet UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/413c7f7928d689d.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Nat Geo UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/12b30fdac68ad23.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Nat Geo Wild UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/2cd2d0e78ffeb13.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Discovery UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/f4d663ce972f25e.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Discovery Science
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/680276caf80ae5a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Discovery History UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/f327a6fce0dd420.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Discovery Turbo UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/9209f169cade792.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISCOVERY ID UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/94ecc943853680f.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Discovery Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/b4f4ac5bc4f9716.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Nat GEO Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/616ea70da8a1bb3.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Nat GEO Wild Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/ec0a46439494f74.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISCOVERY JEET HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/a9cbe2e679715b8.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Animal Planet HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/3b5133054a5c02a.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISCOVERY TAMIL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/d1f1308a71298c9.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISCOVERY TELUGU
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/80d779f99ab5fca.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", AD NAT GEO
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/2a103ff710c04e3.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", Discovery Bangla
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/f5b49ee376f6d26.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", History Tv18 India History Tv18 HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/36b54c70a610354.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", History Tv18 India History Tv18 English
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/db45de504b635dc.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/dedd5a1d49c5204.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISCOVERY SHED UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/0bea8cfceba31ef.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", ANIMAL PLANET HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/7bc58dbc5a41077.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISCOVERY WORLD HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/e6386097ba0466b.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", HISTORY 2 UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/831f36eb675314c.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", HISTORY TAMIL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/0cdf9afaf9c28b3.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", HISTORY TELUGU
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/9fcdd38e3718f57.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISCOVERY PAKISTAN 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/2c297a77355c525.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISCOVERY SCI HINDI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/26bdc7b1408b091.m3u8
+#EXTINF:-1 tvg-id="pack" tvg-name=VIACOM | IN" group-title="SWIFTSTREAM | WILDLIFE"tvg-logo="http://www.istreamtv.xyz/tv/uploads/user_image/1.jpg", DISCOVERY TURBO INDIA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/1673dd311fa36af.m3u8
+
+
+
+
